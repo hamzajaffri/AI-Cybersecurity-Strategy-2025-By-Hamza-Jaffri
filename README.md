@@ -21,3 +21,5 @@ You do not need an enterprise budget to be secure: strong authentication (MFA ev
 
 ABITALIB ENTERPRISES — Building Technology. Creating Opportunities. Shaping the Future.
 🌐 https://abitalibenterprises.lovable.app
+
+Maintained by Hamza Jaffri — ABITALIB ENTERPRISES.
